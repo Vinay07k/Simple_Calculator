@@ -1,2 +1,2 @@
-# A Simple Calculator\n
+# A Simple Calculator
 A simple calculator using HTML, CSS and Javascript
