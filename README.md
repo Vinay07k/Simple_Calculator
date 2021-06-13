@@ -5,7 +5,7 @@ This is a simple calculator functionality achieved using Javascript. The logic i
 
 ## Steps to execute this calculator:
 - Download the entire code 
-- Open up the index.html.
+- Open up the index.html
 
 ## Technologies used: 
 - HTML
